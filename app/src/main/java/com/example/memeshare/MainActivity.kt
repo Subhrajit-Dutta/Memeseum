@@ -119,8 +119,4 @@ class MainActivity : AppCompatActivity() {
         // Add the request to the RequestQueue.
         queue.add(jsonObjectRequest)
     }
-    fun shareMeme(view: View) {
-
-    }
-
 }
